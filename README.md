@@ -21,6 +21,4 @@ Type or select your answer.
 
 If correct, you move to the next riddle and earn points.
 
-If wrong, try again or use a hint (limited per game).
-
 Play until you finish all riddles or beat your high score!
