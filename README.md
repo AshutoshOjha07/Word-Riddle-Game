@@ -13,8 +13,6 @@ Score tracking to challenge yourself or compete with friends.
 
 Simple and user-friendly interface.
 
-Option to add your own riddles to the game.
-
 🚀 How to Play
 
 A riddle will be displayed on the screen.
